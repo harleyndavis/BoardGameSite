@@ -1,3 +1,5 @@
+Due to site I was using for board game API, this project no longer functions.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
